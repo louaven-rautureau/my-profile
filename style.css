@@ -1,0 +1,62 @@
+h1{
+ color: rgb(228, 79, 126);
+}
+h2 {
+  color: rgb(228, 79, 126);
+	font-size: 20px;
+	font-family: new roman;
+}
+h3 {
+ color: rgb(228, 79, 126);
+}
+body {
+  font-family: Times, serif;
+  background: rgb(250, 241, 227)
+}
+p {
+	color: rgb(12, 15, 126);
+}
+h1 {
+	font-size: 30px;
+	line-height: 1.8;
+	letter-spacing: 1px;
+}
+h1,h2,h3 { 
+	font-family: heltvica;
+ }
+ a:hover { 
+ 	color: rgb(250, 142, 227);
+ 	}
+a {
+	text-decoration: none;
+}
+.container{
+	margin: 0px;
+	text-align: center;
+	padding: 40px;
+	box-shadow: 4px 4px 4px grey;
+}
+.card-white{
+	background: white;
+	padding: 30px;
+	border-radius: 4px;
+	box-shadow: 0 10px 30px rgba(0,0,0,.1);
+	margin: 40px;
+}
+#photo-rond{
+	border-radius:12%;
+}
+#fille {
+  width: 60px;
+}
+.img-circle {
+  border-radius: 100%;
+}
+.img-bordered {
+  border: 1px solid grey;
+}
+.list-inline {
+  list-style: none;
+  padding-right: 10px
+}
+
